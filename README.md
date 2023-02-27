@@ -1,5 +1,5 @@
 # Hi, I'm Karin :sassy_woman:
-I'm a Student of B.Sc. in Computer Science at Bar Ilan University.
+I'm a B.Sc. graduate of Computer Science at Bar Ilan University.
 
 I'm passionate about coding :desktop_computer: <br/>
 And also
